@@ -1,0 +1,33 @@
+_repo: Village-Improvements-and-Farm-Villages_26801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waring, George E. (George Edwin)
+    alias: Waring, George Edwin
+    birthdate: 1833
+    deathdate: 1898
+    gutenberg_agent_id: '8689'
+    url: http://www.gutenberg.org/2009/agents/8689
+    wikipedia: http://en.wikipedia.org/wiki/George_E._Waring,_Jr.
+description: Village improvements -- Village sanitary work -- Farm villages -- Life
+  and work of the eastern farmer.
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26801'
+  lccn: '12008071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life'
+- !lcc 'S'
+- !lcsh 'Civic improvement'
+tableOfContents: Village improvements -- Village sanitary work -- Farm villages --
+  Life and work of the eastern farmer.
+title: Village Improvements and Farm Villages
+url: http://www.gutenberg.org/ebooks/26801
